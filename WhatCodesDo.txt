@@ -1,0 +1,2 @@
+In this we select a query image and we match that image on the basis of content with another images from a directory.
+We used LBP algorithm for finding this match.
